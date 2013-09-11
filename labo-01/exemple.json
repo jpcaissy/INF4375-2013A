@@ -1,0 +1,17 @@
+{
+  "livres": [
+    {
+      "titre": "Titre du livre",
+      "auteur": ["Auteur du livre", "Auteur 2", "Auteur 3"],
+      "pages": 500,
+      "annee": 1989,
+      "nb_copies": 4,
+      "disponible": true,
+      "emprenteurs": [
+        {
+          "nom": "Jean-Philippe Caissy"
+        }
+      ],
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<bibliotheque>
+  <livres>
+    <livre>
+      <titre>tire du livre &amp; &lt; &gt; </titre>
+      <auteur>tire du livre</auteur>
+      <pages>500</pages>
+      <annee>1989</annee>
+      <nb_copies>4</nb_copies>
+      <disponible />
+      <emprenteurs>
+        <emprunt>
+          <nom>Jean-Philippe Caissy</nom>
+          <identifiant>jpcaissy</identifiant>
+          <date_emprunt>2013-09-11</date_emprunt>
+          <date_retour />
+        </emprunt>
+        <emprunt>
+          <nom>Guillaume Auger</nom>
+          <identifiant>jehog</identifiant>
+          <date_emprunt>2013-09-01</date_emprunt>
+          <date_retour>2013-09-10</date_retour>
+        </emprunt>
+      </emprenteurs>
+    </livre>
+  </livres>
+</bibliotheque>
