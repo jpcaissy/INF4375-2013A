@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<bieres>
+    <compagnie>
+        <nom>Unibroue</nom>
+        <biere>Fin du monde</biere>
+    </compagnie>
+    <compagnie>
+        <nom>La Barberie</nom>
+        <biere>Blonde biologique</biere>
+        <biere>Stout impériale</biere>
+    </compagnie>
+</bieres>
