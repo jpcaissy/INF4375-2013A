@@ -1,0 +1,7 @@
+extends layout
+
+block content
+  h1= title
+  p Welcome to #{title}
+  - for(var i = 0; i < objet.length; i++)
+    | #{objet[i].nom}
