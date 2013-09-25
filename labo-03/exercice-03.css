@@ -1,0 +1,16 @@
+.articlebox {
+  border: solid 1px lightgray;
+  position: relative;
+  min-height: 320px;
+}
+#logo,
+.articlebox h1,
+.articlebox h2,
+.articlebox h3 {
+  margin: 0;
+  color: #35fdad;
+}
+
+td {
+  color: #35fdad; //Répétition de la couleur ...
+}
