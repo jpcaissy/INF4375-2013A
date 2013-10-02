@@ -1,7 +1,7 @@
 data = require('../data/cours_automne.js');
 
 var accueil = function(req, res) {
-  var nom = 'Jacques Berger';
+  var nom = 'Labo 3 INF4375';
   /**
    * #1 : Dans le template index.jade, il y a une variable nom qui est affiché.
    * Utilisez res.render pour afficher le template index.jade et la variable nom. 
