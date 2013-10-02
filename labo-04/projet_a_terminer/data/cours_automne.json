@@ -1,0 +1,466 @@
+{
+    "INM4702  (2 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM4702&code_prog=7316&titre=Pr%e9paration+au+stage+d'informatique+II&an_ses2=Automne+2013",
+        "nom": "INM4702 Préparation au stage d'informatique II",
+        "offert": true,
+        "prerequis": [
+            "INM5801"
+        ]
+    },
+    "TEL4165": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=TEL4165&code_prog=7316&titre=R%e9seaux+sans+fil+et+applications+mobiles&an_ses2=Automne+2013",
+        "nom": "Réseaux sans fil et applications mobiles",
+        "offert": true,
+        "prerequis": [
+            "INF3270",
+            "TEL3175"
+        ]
+    },
+    "INF4470": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4470&code_prog=7316&titre=Fiabilit%e9+et+s%e9curit%e9+informatique&an_ses2=Automne+2013",
+        "nom": "Fiabilité et sécurité informatique",
+        "offert": false,
+        "prerequis": [
+            "INF2120",
+            "INF2105"
+        ]
+    },
+    "INF5171": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5171&code_prog=7316&titre=Programmation+concurrente+et+parall%e8le&an_ses2=Automne+2013",
+        "nom": "Programmation concurrente et parallèle",
+        "offert": false,
+        "prerequis": [
+            "INF3172"
+        ]
+    },
+    "INM5803  (0 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM5803&code_prog=7316&titre=Stage+d'informatique+III&an_ses2=Automne+2013",
+        "nom": "INM5803 Stage d'informatique III",
+        "offert": true,
+        "prerequis": [
+            "INM4703"
+        ]
+    },
+    "MET5510": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET5510&code_prog=7316&titre=Simulation+dynamique&an_ses2=Automne+2013",
+        "nom": "Simulation dynamique",
+        "offert": false,
+        "prerequis": [
+            "INF1255",
+            "INF2120"
+        ]
+    },
+    "MET6910": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET6910&code_prog=7316&titre=Syst%e8mes+d%e9cisionnels+et+intelligence+d'affaires+(B.I.)&an_ses2=Automne+2013",
+        "nom": "Systèmes décisionnels et intelligence d'affaires (B.I.)",
+        "offert": true,
+        "prerequis": [
+            "MET4901"
+        ]
+    },
+    "INF1130": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF1130&code_prog=7316&titre=Math%e9matiques+pour+informaticien&an_ses2=Automne+2013",
+        "nom": "Mathématiques pour informaticien",
+        "offert": true,
+        "prerequis": []
+    },
+    "ORH1163": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=ORH1163&code_prog=7316&titre=Comportement+organisationnel&an_ses2=Automne+2013",
+        "nom": "Comportement organisationnel",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF6150": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF6150&code_prog=7316&titre=G%e9nie+logiciel:+conduite+de+projets+informatiques&an_ses2=Automne+2013",
+        "nom": "Génie logiciel: conduite de projets informatiques",
+        "offert": true,
+        "prerequis": [
+            "INF5153"
+        ]
+    },
+    "INF3105": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3105&code_prog=7316&titre=Structures+de+donn%e9es+et+algorithmes&an_ses2=Automne+2013",
+        "nom": "Structures de données et algorithmes",
+        "offert": true,
+        "prerequis": [
+            "INF1130",
+            "MAT3162",
+            "INF2120"
+        ]
+    },
+    "LIT1313": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=LIT1313&code_prog=7316&titre=Stylistique+du+fran%e7ais+scientifique+et+technique&an_ses2=Automne+2013",
+        "nom": "Stylistique du français scientifique et technique",
+        "offert": false,
+        "prerequis": []
+    },
+    "INF5153": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5153&code_prog=7316&titre=G%e9nie+logiciel:+conception&an_ses2=Automne+2013",
+        "nom": "Génie logiciel: conception",
+        "offert": true,
+        "prerequis": [
+            "INF5151",
+            "INF3135"
+        ]
+    },
+    "INF3143": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3143&code_prog=7316&titre=Mod%e9lisation+et+sp%e9cification+formelles+de+logiciels&an_ses2=Automne+2013",
+        "nom": "Modélisation et spécification formelles de logiciels",
+        "offert": true,
+        "prerequis": [
+            "INF1130",
+            "MAT3162",
+            "INF2120"
+        ]
+    },
+    "INF5151": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5151&code_prog=7316&titre=G%e9nie+logiciel:+analyse+et+mod%e9lisation&an_ses2=Automne+2013",
+        "nom": "Génie logiciel: analyse et modélisation",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF4100": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4100&code_prog=7316&titre=Conception+et+analyse+d'algorithmes&an_ses2=Automne+2013",
+        "nom": "Conception et analyse d'algorithmes",
+        "offert": false,
+        "prerequis": [
+            "INF3105"
+        ]
+    },
+    "INF5000": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5000&code_prog=7316&titre=Th%e9orie+et+construction+des+compilateurs&an_ses2=Automne+2013",
+        "nom": "Théorie et construction des compilateurs",
+        "offert": true,
+        "prerequis": [
+            "INF3105"
+        ]
+    },
+    "INF2005": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF2005&code_prog=7316&titre=Programmation+Web&an_ses2=Automne+2013",
+        "nom": "Programmation Web",
+        "offert": true,
+        "prerequis": [
+            "INF1120"
+        ]
+    },
+    "INM5801  (0 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM5801&code_prog=7316&titre=Stage+d'informatique+I&an_ses2=Automne+2013",
+        "nom": "INM5801 Stage d'informatique I",
+        "offert": true,
+        "prerequis": [
+            "INM4701"
+        ]
+    },
+    "INF5281": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5281&code_prog=7316&titre=Bases+de+donn%e9es+avanc%e9es&an_ses2=Automne+2013",
+        "nom": "Bases de données avancées",
+        "offert": false,
+        "prerequis": [
+            "INF5180"
+        ]
+    },
+    "INM6000": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM6000&code_prog=7316&titre=Informatique+et+soci%e9t%e9&an_ses2=Automne+2013",
+        "nom": "Informatique et société",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF3005": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3005&code_prog=7316&titre=Programmation+Web+avanc%e9e&an_ses2=Automne+2013",
+        "nom": "Programmation Web avancée",
+        "offert": false,
+        "prerequis": [
+            "INF2005"
+        ]
+    },
+    "INF2170": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF2170&code_prog=7316&titre=Organisation+des+ordinateurs+et+assembleur&an_ses2=Automne+2013",
+        "nom": "Organisation des ordinateurs et assembleur",
+        "offert": true,
+        "prerequis": [
+            "INF1105",
+            "INF1120"
+        ]
+    },
+    "INM5151": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM5151&code_prog=7316&titre=Projet+d'analyse+et+de+mod%e9lisation&an_ses2=Automne+2013",
+        "nom": "Projet d'analyse et de modélisation",
+        "offert": true,
+        "prerequis": [
+            "INF5151"
+        ]
+    },
+    "INF4375": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4375&code_prog=7316&titre=Paradigmes+des+%e9changes+Internet&an_ses2=Automne+2013",
+        "nom": "Paradigmes des échanges Internet",
+        "offert": true,
+        "prerequis": [
+            "INF3270"
+        ]
+    },
+    "MET1105": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET1105&code_prog=7316&titre=La+gestion+et+les+syst%e8mes+d'information&an_ses2=Automne+2013",
+        "nom": "La gestion et les systèmes d'information",
+        "offert": true,
+        "prerequis": []
+    },
+    "ANG3037": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=ANG3037&code_prog=7316&titre=Intermediate+English+Skills+for+Computers&an_ses2=Automne+2013",
+        "nom": "Intermediate English Skills for Computers",
+        "offert": false,
+        "prerequis": []
+    },
+    "MAT4681": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MAT4681&code_prog=7316&titre=Statistique+pour+les+sciences&an_ses2=Automne+2013",
+        "nom": "Statistique pour les sciences",
+        "offert": true,
+        "prerequis": []
+    },
+    "MET5311": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET5311&code_prog=7316&titre=%c9quipes,+collecticiels+et+gestion+de+la+connaissance&an_ses2=Automne+2013",
+        "nom": "Équipes, collecticiels et gestion de la connaissance",
+        "offert": false,
+        "prerequis": [
+            "INF5151",
+            "MET5200",
+            "MET5215"
+        ]
+    },
+    "INF4230": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4230&code_prog=7316&titre=Intelligence+artificielle&an_ses2=Automne+2013",
+        "nom": "Intelligence artificielle",
+        "offert": false,
+        "prerequis": [
+            "INF2160"
+        ]
+    },
+    "INF3180": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3180&code_prog=7316&titre=Fichiers+et+bases+de+donn%e9es&an_ses2=Automne+2013",
+        "nom": "Fichiers et bases de données",
+        "offert": true,
+        "prerequis": [
+            "INF2120"
+        ]
+    },
+    "MAT1600": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MAT1600&code_prog=7316&titre=Alg%e8bre+matricielle&an_ses2=Automne+2013",
+        "nom": "Algèbre matricielle",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF5371": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5371&code_prog=7316&titre=Interconnexion+de+r%e9seaux&an_ses2=Automne+2013",
+        "nom": "Interconnexion de réseaux",
+        "offert": false,
+        "prerequis": [
+            "INF3270"
+        ]
+    },
+    "INM4703  (2 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM4703&code_prog=7316&titre=Pr%e9paration+au+stage+d'informatique+III&an_ses2=Automne+2013",
+        "nom": "INM4703 Préparation au stage d'informatique III",
+        "offert": true,
+        "prerequis": [
+            "INM5802"
+        ]
+    },
+    "INM4701  (2 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM4701&code_prog=7316&titre=Pr%e9paration+au+stage+d'informatique+I&an_ses2=Automne+2013",
+        "nom": "INM4701 Préparation au stage d'informatique I",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF1120": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF1120&code_prog=7316&titre=Programmation+I&an_ses2=Automne+2013",
+        "nom": "Programmation I",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF5180": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5180&code_prog=7316&titre=Conception+et+exploitation+d'une+base+de+donn%e9es&an_ses2=Automne+2013",
+        "nom": "Conception et exploitation d'une base de données",
+        "offert": true,
+        "prerequis": [
+            "INF3180"
+        ]
+    },
+    "INF3172": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3172&code_prog=7316&titre=Principes+des+syst%e8mes+d'exploitation&an_ses2=Automne+2013",
+        "nom": "Principes des systèmes d'exploitation",
+        "offert": true,
+        "prerequis": [
+            "INF2170",
+            "MIC3215",
+            "INF3135",
+            "INF2105"
+        ]
+    },
+    "INF2120": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF2120&code_prog=7316&titre=Programmation+II&an_ses2=Automne+2013",
+        "nom": "Programmation II",
+        "offert": true,
+        "prerequis": [
+            "INF1120"
+        ]
+    },
+    "INF4150": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4150&code_prog=7316&titre=Interfaces+personnes-machines&an_ses2=Automne+2013",
+        "nom": "Interfaces personnes-machines",
+        "offert": false,
+        "prerequis": [
+            "INF5151"
+        ]
+    },
+    "INF4482": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4482&code_prog=7316&titre=D%e9veloppement+d'applications+r%e9parties&an_ses2=Automne+2013",
+        "nom": "Développement d'applications réparties",
+        "offert": false,
+        "prerequis": [
+            "INF3180",
+            "INF3270"
+        ]
+    },
+    "INF4175": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4175&code_prog=7316&titre=R%e9seaux+multim%e9dia+et+applications&an_ses2=Automne+2013",
+        "nom": "Réseaux multimédia et applications",
+        "offert": false,
+        "prerequis": [
+            "INF3270"
+        ]
+    },
+    "INF5270": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5270&code_prog=7316&titre=Programmation+de+r%e9seaux:+protocoles+de+communication&an_ses2=Automne+2013",
+        "nom": "Programmation de réseaux: protocoles de communication",
+        "offert": false,
+        "prerequis": [
+            "INF3270",
+            "MIC4250"
+        ]
+    },
+    "INF5071": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF5071&code_prog=7316&titre=Infographie&an_ses2=Automne+2013",
+        "nom": "Infographie",
+        "offert": true,
+        "prerequis": [
+            "INF3105",
+            "MAT1600",
+            "MAT1200"
+        ]
+    },
+    "INF4170": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4170&code_prog=7316&titre=Architecture+des+ordinateurs&an_ses2=Automne+2013",
+        "nom": "Architecture des ordinateurs",
+        "offert": true,
+        "prerequis": [
+            "INF3172"
+        ]
+    },
+    "INF4500": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF4500&code_prog=7316&titre=Bioinformatique&an_ses2=Automne+2013",
+        "nom": "Bioinformatique",
+        "offert": true,
+        "prerequis": [
+            "INF3105"
+        ]
+    },
+    "LIN1009": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=LIN1009&code_prog=7316&titre=Apprentissage+de+la+grammaire+du+fran%e7ais+%e9crit+I&an_ses2=Automne+2013",
+        "nom": "Apprentissage de la grammaire du français écrit I",
+        "offert": true,
+        "prerequis": []
+    },
+    "MET4901": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET4901&code_prog=7316&titre=Applications+int%e9gr%e9es+pour+l'entreprise+%e9lectronique&an_ses2=Automne+2013",
+        "nom": "Applications intégrées pour l'entreprise électronique",
+        "offert": true,
+        "prerequis": [
+            "MET1105",
+            "MET2100"
+        ]
+    },
+    "INF2015": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF2015&code_prog=7316&titre=D%e9veloppement+de+logiciel+dans+un+environnement+Agile&an_ses2=Automne+2013",
+        "nom": "Développement de logiciel dans un environnement Agile",
+        "offert": true,
+        "prerequis": [
+            "INF1120"
+        ]
+    },
+    "ANG2037": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=ANG2037&code_prog=7316&titre=Elementary+English+Skills+for+Computers&an_ses2=Automne+2013",
+        "nom": "Elementary English Skills for Computers",
+        "offert": false,
+        "prerequis": []
+    },
+    "MET5903": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=MET5903&code_prog=7316&titre=Implantation+et+progiciels+de+gestion&an_ses2=Automne+2013",
+        "nom": "Implantation et progiciels de gestion",
+        "offert": false,
+        "prerequis": [
+            "MET4901"
+        ]
+    },
+    "COM1070": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=COM1070&code_prog=7316&titre=Communication+efficace+:+un+outil+de+gestion&an_ses2=Automne+2013",
+        "nom": "Communication efficace : un outil de gestion",
+        "offert": true,
+        "prerequis": []
+    },
+    "LIT1006": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=LIT1006&code_prog=7316&titre=%c9criture+et+norme+grammaticale+I&an_ses2=Automne+2013",
+        "nom": "Écriture et norme grammaticale I",
+        "offert": true,
+        "prerequis": []
+    },
+    "INM5802  (0 cr.)": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INM5802&code_prog=7316&titre=Stage+d'informatique+II&an_ses2=Automne+2013",
+        "nom": "INM5802 Stage d'informatique II",
+        "offert": true,
+        "prerequis": [
+            "INM4702"
+        ]
+    },
+    "INF3135": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3135&code_prog=7316&titre=Construction+et+maintenance+de+logiciels&an_ses2=Automne+2013",
+        "nom": "Construction et maintenance de logiciels",
+        "offert": true,
+        "prerequis": [
+            "INF2120"
+        ]
+    },
+    "INF6160": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF6160&code_prog=7316&titre=Qualit%e9:+processus+et+produits&an_ses2=Automne+2013",
+        "nom": "Qualité: processus et produits",
+        "offert": false,
+        "prerequis": [
+            "INF5153"
+        ]
+    },
+    "INF3270": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF3270&code_prog=7316&titre=T%e9l%e9informatique&an_ses2=Automne+2013",
+        "nom": "Téléinformatique",
+        "offert": true,
+        "prerequis": [
+            "INF2105",
+            "INF2120",
+            "INF2170",
+            "MIC3215"
+        ]
+    },
+    "ECO1081": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=ECO1081&code_prog=7316&titre=%c9conomie+des+technologies+de+l'information&an_ses2=Automne+2013",
+        "nom": "Économie des technologies de l'information",
+        "offert": true,
+        "prerequis": []
+    },
+    "INF2160": {
+        "url": "http://www.websysinfo.uqam.ca/regis/rwe_frame_cours?sigle=INF2160&code_prog=7316&titre=Paradigmes+de+programmation&an_ses2=Automne+2013",
+        "nom": "Paradigmes de programmation",
+        "offert": true,
+        "prerequis": [
+            "INF1130",
+            "MAT3162",
+            "INF2120"
+        ]
+    }
+}

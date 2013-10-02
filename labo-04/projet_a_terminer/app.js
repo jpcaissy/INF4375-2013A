@@ -42,7 +42,11 @@ app.get('/cours', routes.liste_cours);
  * le lien Modifier dans le template jade cours.jade
  * Par exemple : /cours/INF4375/modifier/
  */
-app.get('/cours/:sigle/modifier/', routes.modifier_cours);
+
+/*
+ * #9 - Ajouter la même route dynamique que #7, mais avec la méthode POST, pour
+ * gérer la soumission du formulaire.
+ */
 
 
 http.createServer(app).listen(app.get('port'), function(){
