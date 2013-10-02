@@ -36,6 +36,13 @@ app.get('/cours', routes.liste_cours);
  * app.get('/dossier/:id') et dans la routes, on peut accéder
  * à l'id avec request.params.id
  */
+/*
+ * #7 - Ajouter une route dynamique dynamique comme pour #4, mais pour 
+ * modifier les cours. Assurez-vous d'avoir la même route que 
+ * le lien Modifier dans le template jade cours.jade
+ * Par exemple : /cours/INF4375/modifier/
+ */
+
 
 http.createServer(app).listen(app.get('port'), function(){
   console.log('Express server listening on port ' + app.get('port'));

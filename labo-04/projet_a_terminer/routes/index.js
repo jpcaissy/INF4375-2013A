@@ -25,20 +25,32 @@ var liste_cours = function(req, res) {
 };
 
 var voir_cours = function(req, res) {
-  var liste_cours = req.params.cours;
+  var sigle_cours = req.params.cours;
 
   /**
-   * #5 : Récupérez le cours dans les données (data.cours) et retournez le
+   * #5A : Récupérez le cours dans les données (data.cours) et retournez le
    * au template cours.jade
    *
    * N'oubliez pas d'exposer la méthode cours au module avec module.exports !
    */
 
+  /**
+   * #5B : Ajoutez une validation au sigle. Si le sigle n'existe pas
+   * dans la liste des cours, retourner un erreur 404.
+   */
+
 }
 
 var modifier_cours = function(req, res) {
-  var liste_cours = req.params.cours;
-  var 
+  var sigle_cours = req.params.cours;
+  if(!sigle_cours in data.cours) {
+    res.status(404).send('Not found');
+    return;
+  }
+
+  var cours = data.cours[sigle_cours];
+
+  return res.render('modifier', {'cours': cours});
 };
 
 module.exports.accueil = accueil;
