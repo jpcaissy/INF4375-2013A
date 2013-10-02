@@ -42,6 +42,7 @@ app.get('/cours', routes.liste_cours);
  * le lien Modifier dans le template jade cours.jade
  * Par exemple : /cours/INF4375/modifier/
  */
+app.get('/cours/:sigle/modifier/', routes.modifier_cours);
 
 
 http.createServer(app).listen(app.get('port'), function(){

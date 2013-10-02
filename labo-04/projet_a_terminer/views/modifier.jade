@@ -1,16 +1,11 @@
 extends layout
 
 block content
-  h1 [NOM DU COURS] //- #6A : afficher le nom du cours
-  h2 [SIGLE DU COURS] //- #6B : afficher le sigle du cours
-  p Actuellement offer :
-    if [COURS EST OFFERT] //- #6C : mettre le bon nom d'attribut pour tester si le cours est offert
-      strong Oui
-    else
-      strong Nom
-  p Liste des prérequis:
-    //- #6D : Afficher la liste des prérequis du cours en itérant avec
-    //- la directive each de jade (voir #3)
+  h1 Modification #{sigle_cours}
+  form(method='post')
+    label Nom :
+      input(type='text', value=cours.nom, style='width:300px;margin-left:10px;')
+    br
+    br
 
-  a(href='/cours/'+cours.sigle+'/modifier/') Modifier le cours
-  //- #6E S'assurer que cours.sigle existe (si vous avez nommé votre objet différement de cours ...)
+    input(type='submit', value='Modifier')
