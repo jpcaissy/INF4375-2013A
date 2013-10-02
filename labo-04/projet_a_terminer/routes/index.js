@@ -39,6 +39,8 @@ var voir_cours = function(req, res) {
    * dans la liste des cours, retourner un erreur 404.
    */
 
+  //res.render('cours', {'cours': cours});
+
 }
 
 var modifier_cours = function(req, res) {
