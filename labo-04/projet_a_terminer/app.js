@@ -29,6 +29,7 @@ if ('development' == app.get('env')) {
 
 app.get('/', routes.accueil);
 app.get('/cours', routes.liste_cours);
+app.get('/cours/:sigle', routes.voir_cours);
 /*
  * #4 - Ajouter une route dynamique dynamique pour gérer les liens
  * ajoutés au template cours.jade.

@@ -4,7 +4,11 @@ block content
   h1 Liste des cours pour l'automne 2014
   ul
     each val in cours
-       li= val
+        li
+            a(href='/cours/' + val) #{val}
+            //a(href='/cours/#{val}') #{val}
+            //a(href='/cours/#{val}')= val
+       //li= val
        //- #3 - Modifier l'affichage du cours pour que chacun des cours
        //- soit un lien pointant vers /cours/[SIGLE_DU_COURS], par exemple
        //- /cours/INF4375
