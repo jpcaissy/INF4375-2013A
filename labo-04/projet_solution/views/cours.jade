@@ -1,0 +1,18 @@
+extends layout
+
+block content
+  h1 #{cours.nom}
+  h2 #{sigle_cours}
+  p Actuellement offer :
+    if cours.offert
+      strong Oui
+    else
+      strong Nom
+  p Liste des prérequis:
+  //- #6D : Afficher la liste des prérequis du cours en itérant avec
+  //- la directive each de jade (voir #3)
+  ul
+  each prerequis in cours.prerequis
+    li #{prerequis}
+
+  a(href='/cours/#{sigle_cours}/modifier') Modifier le cours
