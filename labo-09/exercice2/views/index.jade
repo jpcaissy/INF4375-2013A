@@ -1,0 +1,17 @@
+extends layout
+
+block content
+  form(action='/ajax')
+    p Votre nom :
+    input(type='text', id='nom')
+    p
+      input(type='submit' value='Soumettre')
+  div(id='resultat')
+
+  input(type='submit' value='Récupérer la liste des livres' id='recuperer_bieres')
+  table
+    thead
+      tr
+        th Microbrasserie
+        th Bière(s)
+    tbody(id='resultat_biere')

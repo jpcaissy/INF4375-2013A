@@ -13,3 +13,8 @@ exports.requete_ajax = function(req, res) {
     'date': new Date()
   });
 }
+
+exports.retourner_date = function(req, res) {
+  res.json(new Date());
+
+}

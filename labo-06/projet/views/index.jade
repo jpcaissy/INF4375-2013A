@@ -1,7 +1,8 @@
 extends layout
 
 block content
-  form(action='/ajax')
+  input(type='button', onclick="recupere_date();" value="Afficher la date")
+  form(onsubmit='envoyer_formulaire(); return false;')
     input(type='text', id='nom')
     input(type='submit')
   div(id='resultat')
