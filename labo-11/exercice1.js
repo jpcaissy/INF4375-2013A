@@ -49,8 +49,7 @@ MongoClient.connect(format("mongodb://%s:%s/%s?w=1", host, port, database), func
                     throw err;
                 }
                 /*
-                 * 2- Afficher le titre de chacun des billets et
-                 * chacun des tags avec console.log
+                 * 2- Afficher le titre de chacun des billets.
                  */
             });
 
